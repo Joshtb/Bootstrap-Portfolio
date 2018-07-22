@@ -1,0 +1,95 @@
+@media only screen and (max-width: 724px) {
+    #card1 {
+        position: absolute;
+        top: 10px;
+       
+    }
+    #card2 {
+        position: absolute;
+        top: 550px;
+        left: -10px;
+    }
+    #card3 {
+        position: absolute;
+        top: 265px;
+        
+    }
+    #card4 {
+        position: absolute;
+        top: 800px;
+        left: -98px;
+    }
+   
+}
+
+@media only screen and (min-width: 768px) {
+    #card1 {
+        position: absolute;
+        top: 10px;
+    }
+    #card2 {
+        position: absolute;
+        top: 550px;
+        left: -10px;
+    }
+    #card3 {
+        position: absolute;
+        top: 260px;
+    }
+    #card4 {
+        position: absolute;
+        top: 800px;
+        left: -198px;
+    }
+   
+}
+
+@media only screen and (min-width: 1024px) {
+    #card1 {
+        position: absolute;
+        top: 10px;
+    }
+    #card2 {
+        position: absolute;
+        top: 550px;
+        left: -10px;
+    }
+    #card3 {
+        position: absolute;
+        top: 260px;
+    }
+    #card4 {
+        position: absolute;
+        top: 800px;
+        left: -270px;
+    }
+    
+}
+
+
+@media only screen and (min-width: 1100px) {
+    #card1 {
+        position: absolute;
+        top:-60px;
+    }
+    #card2 {
+        position: absolute;
+        top: -60px;
+        left: 350px;
+    }
+    #card3 {
+        position: absolute;
+        top: 200px;
+    }
+    #card4 {
+        position: absolute;
+        top: 211px;
+        left: 15px;
+    }
+    
+}
+
+
+
+
+
