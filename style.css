@@ -1,8 +1,11 @@
+body {
+    cursor: url(http://www.rw-designer.com/cursor-extern.php?id=111111);
+}
+
 @media only screen and (max-width: 724px) {
     #card1 {
         position: absolute;
         top: 10px;
-       
     }
     #card2 {
         position: absolute;
@@ -12,14 +15,12 @@
     #card3 {
         position: absolute;
         top: 265px;
-        
     }
     #card4 {
         position: absolute;
         top: 800px;
         left: -98px;
     }
-   
 }
 
 @media only screen and (min-width: 768px) {
@@ -41,7 +42,6 @@
         top: 800px;
         left: -198px;
     }
-   
 }
 
 @media only screen and (min-width: 1024px) {
@@ -63,14 +63,12 @@
         top: 800px;
         left: -270px;
     }
-    
 }
-
 
 @media only screen and (min-width: 1100px) {
     #card1 {
         position: absolute;
-        top:-60px;
+        top: -60px;
     }
     #card2 {
         position: absolute;
@@ -86,10 +84,4 @@
         top: 211px;
         left: 15px;
     }
-    
 }
-
-
-
-
-
