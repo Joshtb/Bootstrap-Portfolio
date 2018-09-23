@@ -2,66 +2,103 @@ body {
     cursor: url(http://www.rw-designer.com/cursor-extern.php?id=111111);
 }
 
-@media only screen and (max-width: 724px) {
+@media only screen and (max-width: 853px) {
     #card1 {
         position: absolute;
-        top: 10px;
+        top: -50px;
     }
+
     #card2 {
         position: absolute;
-        top: 550px;
-        left: -10px;
+      left: 300px;
+       top:-50px;
     }
+
     #card3 {
         position: absolute;
-        top: 265px;
+        top: 350px;
     }
+
     #card4 {
         position: absolute;
-        top: 800px;
-        left: -98px;
+        top:359px;
+        left:140px;
+        
+    }
+
+    #card5 {
+        position: absolute;
+       top:400px;
+       left:-350px;
+    }
+
+    #card6 {
+        position: absolute;
+      top:558px;
+      left:-390px;
     }
 }
 
-@media only screen and (min-width: 768px) {
+/* @media only screen and (min-width: 768px) { */
+    /* #card1 {
+        position: absolute;
+        top: -10px;
+    } */
+/* 
+    #card2 {
+        position: absolute;
+        top:200px;
+        left:-40px;
+    } */
+   
+
+    /* #card3 {
+        position: absolute;
+       
+    } */
+
+    /* #card4 {
+        
+        top: 980px;
+        left: -388px;
+    }
+    #card5{
+        position: absolute;
+        left:-500px;
+    }
+} */
+
+@media only screen and (min-width: 854px) {
     #card1 {
         position: absolute;
         top: 10px;
     }
+
     #card2 {
         position: absolute;
-        top: 550px;
+        top: 610px;
         left: -10px;
     }
+
     #card3 {
         position: absolute;
         top: 260px;
     }
-    #card4 {
-        position: absolute;
-        top: 800px;
-        left: -198px;
-    }
-}
 
-@media only screen and (min-width: 1024px) {
-    #card1 {
-        position: absolute;
-        top: 10px;
-    }
-    #card2 {
-        position: absolute;
-        top: 550px;
-        left: -10px;
-    }
-    #card3 {
-        position: absolute;
-        top: 260px;
-    }
     #card4 {
         position: absolute;
-        top: 800px;
-        left: -270px;
+        top: 559px;
+        left:155px;
+    }
+    #card5{
+        position: absolute;
+        top:62px;
+        left:-100px;
+    }
+
+    #card6{
+        top:70px;
+        left:-335px;
     }
 }
 
@@ -70,18 +107,102 @@ body {
         position: absolute;
         top: -60px;
     }
+
     #card2 {
         position: absolute;
         top: -60px;
         left: 350px;
     }
+
     #card3 {
         position: absolute;
-        top: 200px;
+        top: 350px;
     }
+
     #card4 {
         position: absolute;
-        top: 211px;
-        left: 15px;
+        top: 358px;
+        left: 79px;
+    }
+    #card5{
+        position: absolute;
+        left:-580px;
+        top:442px;
+    }
+
+    #card6{
+        position: absolute;
+        top:600px;
+    }
+}
+
+@media only screen and (min-width: 1236px) {
+    #card1 {
+        position: absolute;
+        top: -60px;
+    }
+
+    #card2 {
+        position: absolute;
+        top: -60px;
+        left: 350px;
+    }
+
+    #card3 {
+        position: absolute;
+        top: 350px;
+    }
+
+    #card4 {
+        position: absolute;
+        top: 358px;
+        left: 44px;
+    }
+    #card5{
+        position: absolute;
+        left:-650px;
+        top:442px;
+    }
+
+    #card6{
+        position: absolute;
+        top:600px;
+    }
+}
+
+@media only screen and (min-width: 1300px) {
+    #card1 {
+        position: absolute;
+        top: -60px;
+    }
+
+    #card2 {
+        position: absolute;
+        top: -60px;
+        left: 350px;
+    }
+
+    #card3 {
+        position: absolute;
+        top:43px;
+        left:695px;
+    }
+
+    #card4 {
+        position: absolute;
+       
+        left: 14px;
+    }
+    #card5{
+        position: absolute;
+        left:-699px;
+        top:149px;
+    }
+
+    #card6{
+        position: absolute;
+        top:309px;
+        left:-13px;
+
     }
 }
